@@ -1,4 +1,4 @@
-### Olá! Sou o Wallace Freire 👋
+### Sobre Mim 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallacehfreire/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-freire-b792b5209/)
@@ -15,4 +15,4 @@
 
 </div><br/>
 
-Entusiasta de Tecnologia e Finanças, respirando o propósito de agregar valor às pessoas.
+Entusiasta de Tecnologia e Finanças, respirando o propósito de agregar valor à sociedade.
