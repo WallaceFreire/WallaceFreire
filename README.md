@@ -15,9 +15,6 @@
     <img align="center" alt="c#" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white/> 
     <img align="center" alt="c#" src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white/> 
     <img align="center" alt="c#" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/> 
-    
-   
-
 </div><br/>
 
 Entusiasta de Tecnologia e Finanças, respirando o propósito de agregar valor à sociedade.
